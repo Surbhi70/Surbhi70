@@ -23,7 +23,7 @@ I'm a final-year Computer Science Engineering (CSE) student with a passion for c
 
 ## 📫 How to reach me
 
-- LinkedIn: [Surbhi Singh]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/surbhi-singh-4a0b07271/))
+- LinkedIn: [Surbhi Singh](https://www.linkedin.com/in/surbhi-singh-4a0b07271/)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
 
